@@ -56,5 +56,6 @@ public class Main {
         int input2 = Integer.parseInt(scanner.nextLine());
         System.out.println("Summe: " + add(input1, input2));
         System.out.println("Ist einer der beiden Werte größer als 100? -> " + isOneInputBiggerThan100(input1, input2));
+        System.out.println("Hello world from Collins");
     }
 }
