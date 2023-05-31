@@ -39,8 +39,6 @@ public class Main {
         return a > 100 || b > 100;
     }
 
-    // comment for git change
-
     public static void main(String[] args) {
         int sum = add(1, 2);
         System.out.println(sum);
